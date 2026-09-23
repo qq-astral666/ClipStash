@@ -1,0 +1,33 @@
+{
+    "classes": [
+        {
+            "className": "ClipboardWatcher",
+            "lineNumber": 13,
+            "object": true,
+            "qualifiedClassName": "ClipboardWatcher",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "item",
+                            "type": "ClipItem"
+                        }
+                    ],
+                    "index": 0,
+                    "lineNumber": 31,
+                    "name": "captured",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ClipboardWatcher.h",
+    "outputRevision": 69
+}

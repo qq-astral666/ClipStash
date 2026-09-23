@@ -1,0 +1,27 @@
+{
+    "classes": [
+        {
+            "className": "ClipStore",
+            "lineNumber": 17,
+            "object": true,
+            "qualifiedClassName": "ClipStore",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "lineNumber": 51,
+                    "name": "changed",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ClipStore.h",
+    "outputRevision": 69
+}

@@ -1,0 +1,4 @@
+/Users/admin/CLionProjects/ClipStash/build-release/ClipStash_autogen/include/../ISMKEKEPX5/moc_AppController.cpp.json
+/Users/admin/CLionProjects/ClipStash/build-release/ClipStash_autogen/include/../ISMKEKEPX5/moc_ClipModel.cpp.json
+/Users/admin/CLionProjects/ClipStash/build-release/ClipStash_autogen/include/../ISMKEKEPX5/moc_ClipboardWatcher.cpp.json
+/Users/admin/CLionProjects/ClipStash/build-release/ClipStash_autogen/include/../ISMKEKEPX5/moc_TrayIcon.cpp.json

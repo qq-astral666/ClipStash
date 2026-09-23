@@ -1,0 +1,21 @@
+module ClipStash
+typeinfo ClipStash.qmltypes
+prefer :/qt/qml/ClipStash/
+Main 1.0 Main.qml
+singleton Theme 1.0 Theme.qml
+Icon 1.0 Icon.qml
+KeyCap 1.0 KeyCap.qml
+TypeBadge 1.0 TypeBadge.qml
+FilterBar 1.0 FilterBar.qml
+ClipDelegate 1.0 ClipDelegate.qml
+PreviewPane 1.0 PreviewPane.qml
+MetaRow 1.0 MetaRow.qml
+EmptyState 1.0 EmptyState.qml
+SettingsPage 1.0 SettingsPage.qml
+SettingRow 1.0 SettingRow.qml
+SectionTitle 1.0 SectionTitle.qml
+Toggle 1.0 Toggle.qml
+Segmented 1.0 Segmented.qml
+PillButton 1.0 PillButton.qml
+depends QtQuick
+

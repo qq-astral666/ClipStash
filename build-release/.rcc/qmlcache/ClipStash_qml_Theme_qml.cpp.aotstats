@@ -1,0 +1,263 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 34,
+                            "durationMicroseconds": 0,
+                            "functionName": "dark",
+                            "line": 11,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 39,
+                            "durationMicroseconds": 0,
+                            "functionName": "windowBg",
+                            "line": 15,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: conversion to QVariant -> QColor stored as QVariant"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 0,
+                            "functionName": "border",
+                            "line": 18,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: conversion to QVariant -> QColor stored as QVariant"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 38,
+                            "durationMicroseconds": 0,
+                            "functionName": "divider",
+                            "line": 19,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: conversion to QVariant -> QColor stored as QVariant"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 38,
+                            "durationMicroseconds": 2000,
+                            "functionName": "surface",
+                            "line": 20,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: conversion to QVariant -> QColor stored as QVariant"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 40,
+                            "durationMicroseconds": 0,
+                            "functionName": "selection",
+                            "line": 21,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: conversion to QVariant -> QColor stored as QVariant"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 0,
+                            "functionName": "hover",
+                            "line": 22,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: conversion to QVariant -> QColor stored as QVariant"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 0,
+                            "functionName": "keycap",
+                            "line": 23,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: conversion to QVariant -> QColor stored as QVariant"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 44,
+                            "durationMicroseconds": 0,
+                            "functionName": "segmentActive",
+                            "line": 24,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: conversion to QVariant -> QColor stored as QVariant"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 39,
+                            "durationMicroseconds": 0,
+                            "functionName": "trackOff",
+                            "line": 25,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: conversion to QVariant -> QColor stored as QVariant"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 38,
+                            "durationMicroseconds": 0,
+                            "functionName": "toastBg",
+                            "line": 26,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 29,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 44,
+                            "durationMicroseconds": 0,
+                            "functionName": "textSecondary",
+                            "line": 30,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: conversion to QVariant -> QColor stored as QVariant"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 43,
+                            "durationMicroseconds": 0,
+                            "functionName": "textTertiary",
+                            "line": 31,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: conversion to QVariant -> QColor stored as QVariant"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "accentSoft",
+                            "line": 35,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: conversion to QVariant -> QColor stored as QVariant"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "accentText",
+                            "line": 36,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "dangerSoft",
+                            "line": 38,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 1000,
+                            "functionName": "dangerHover",
+                            "line": 39,
+                            "message": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method rgba, returning QVariant -> QColor stored as QVariant"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 40,
+                            "durationMicroseconds": 0,
+                            "functionName": "monoFont",
+                            "line": 43,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "ru",
+                            "line": 44,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 39,
+                            "durationMicroseconds": 0,
+                            "functionName": "_typeNames",
+                            "line": 47,
+                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 39,
+                            "durationMicroseconds": 0,
+                            "functionName": "_typeIcons",
+                            "line": 48,
+                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 0,
+                            "functionName": "_typeRgb",
+                            "line": 49,
+                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 0,
+                            "functionName": "typeName",
+                            "line": 52,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 0,
+                            "functionName": "typeIcon",
+                            "line": 53,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 0,
+                            "functionName": "typeColor",
+                            "line": 54,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 0,
+                            "functionName": "typeTint",
+                            "line": 58,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 0,
+                            "functionName": "plural",
+                            "line": 64,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 0,
+                            "functionName": "shortTime",
+                            "line": 71,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 0,
+                            "functionName": "fullDate",
+                            "line": 83,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 0,
+                            "functionName": "domainOf",
+                            "line": 88,
+                            "message": "Functions without type annotations won't be compiled"
+                        }
+                    ],
+                    "filePath": "/Users/admin/CLionProjects/ClipStash/qml/Theme.qml"
+                }
+            ],
+            "moduleId": "ClipStash(ClipStash)"
+        }
+    ]
+}

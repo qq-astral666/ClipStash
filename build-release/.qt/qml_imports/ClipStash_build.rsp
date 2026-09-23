@@ -1,0 +1,14 @@
+-rootPath
+/Users/admin/CLionProjects/ClipStash
+-cmake-output
+-output-file
+/Users/admin/CLionProjects/ClipStash/build-release/.qt/qml_imports/ClipStash_build.cmake
+-importPath
+/Users/admin/CLionProjects/ClipStash/build-release
+-importPath
+/Users/admin/CLionProjects/ClipStash/build-release/ClipStash
+-importPath
+/opt/homebrew/opt/qt/share/qt/qml
+-qrcFiles
+/Users/admin/CLionProjects/ClipStash/build-release/.qt/rcc/qmake_ClipStash.qrc
+/Users/admin/CLionProjects/ClipStash/build-release/.qt/rcc/ClipStash_raw_qml_0.qrc

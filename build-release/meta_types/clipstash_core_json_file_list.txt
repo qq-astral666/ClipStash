@@ -1,0 +1,1 @@
+/Users/admin/CLionProjects/ClipStash/build-release/clipstash_core_autogen/include/../PRMOGMWJPH/moc_ClipStore.cpp.json

@@ -1,0 +1,157 @@
+{
+    "classes": [
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "auto"
+                },
+                {
+                    "name": "QML.Creatable",
+                    "value": "false"
+                },
+                {
+                    "name": "QML.UncreatableReason",
+                    "value": "ClipModel is owned by AppController"
+                }
+            ],
+            "className": "ClipModel",
+            "enums": [
+                {
+                    "isClass": false,
+                    "isFlag": false,
+                    "lineNumber": 23,
+                    "name": "Role",
+                    "values": [
+                        "ClipIdRole",
+                        "ClipTypeRole",
+                        "ClipTextRole",
+                        "PreviewRole",
+                        "SourceAppRole",
+                        "SourceBundleRole",
+                        "CreatedAtRole",
+                        "PinnedRole",
+                        "UseCountRole",
+                        "ImageWidthRole",
+                        "ImageHeightRole",
+                        "CharCountRole",
+                        "LineCountRole",
+                        "SectionNameRole"
+                    ]
+                }
+            ],
+            "lineNumber": 13,
+            "methods": [
+                {
+                    "access": "public",
+                    "index": 3,
+                    "lineNumber": 55,
+                    "name": "reload",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "id",
+                            "type": "qint64"
+                        }
+                    ],
+                    "index": 4,
+                    "isConst": true,
+                    "lineNumber": 56,
+                    "name": "indexOfId",
+                    "returnType": "int"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "lineNumber": 18,
+                    "name": "searchText",
+                    "notify": "searchTextChanged",
+                    "override": false,
+                    "read": "searchText",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "virtual": false,
+                    "write": "setSearchText"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "lineNumber": 19,
+                    "name": "filter",
+                    "notify": "filterChanged",
+                    "override": false,
+                    "read": "filter",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "virtual": false,
+                    "write": "setFilter"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "lineNumber": 20,
+                    "name": "count",
+                    "notify": "countChanged",
+                    "override": false,
+                    "read": "count",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "virtual": false
+                }
+            ],
+            "qualifiedClassName": "ClipModel",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "lineNumber": 59,
+                    "name": "searchTextChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "lineNumber": 60,
+                    "name": "filterChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "lineNumber": 61,
+                    "name": "countChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QAbstractListModel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ClipModel.h",
+    "outputRevision": 69
+}

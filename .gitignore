@@ -1,0 +1,9 @@
+build/
+cmake-build-*/
+.idea/
+*.user
+.DS_Store
+compile_commands.json
+
+# raw screen recordings (demo.gif is committed instead)
+*.mov

@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="/qt/qml/ClipStash/">
+    <file alias="Main.qml">/Users/admin/CLionProjects/ClipStash/qml/Main.qml</file>
+    <file alias="Theme.qml">/Users/admin/CLionProjects/ClipStash/qml/Theme.qml</file>
+    <file alias="Icon.qml">/Users/admin/CLionProjects/ClipStash/qml/Icon.qml</file>
+    <file alias="KeyCap.qml">/Users/admin/CLionProjects/ClipStash/qml/KeyCap.qml</file>
+    <file alias="TypeBadge.qml">/Users/admin/CLionProjects/ClipStash/qml/TypeBadge.qml</file>
+    <file alias="FilterBar.qml">/Users/admin/CLionProjects/ClipStash/qml/FilterBar.qml</file>
+    <file alias="ClipDelegate.qml">/Users/admin/CLionProjects/ClipStash/qml/ClipDelegate.qml</file>
+    <file alias="PreviewPane.qml">/Users/admin/CLionProjects/ClipStash/qml/PreviewPane.qml</file>
+    <file alias="MetaRow.qml">/Users/admin/CLionProjects/ClipStash/qml/MetaRow.qml</file>
+    <file alias="EmptyState.qml">/Users/admin/CLionProjects/ClipStash/qml/EmptyState.qml</file>
+    <file alias="SettingsPage.qml">/Users/admin/CLionProjects/ClipStash/qml/SettingsPage.qml</file>
+    <file alias="SettingRow.qml">/Users/admin/CLionProjects/ClipStash/qml/SettingRow.qml</file>
+    <file alias="SectionTitle.qml">/Users/admin/CLionProjects/ClipStash/qml/SectionTitle.qml</file>
+    <file alias="Toggle.qml">/Users/admin/CLionProjects/ClipStash/qml/Toggle.qml</file>
+    <file alias="Segmented.qml">/Users/admin/CLionProjects/ClipStash/qml/Segmented.qml</file>
+    <file alias="PillButton.qml">/Users/admin/CLionProjects/ClipStash/qml/PillButton.qml</file>
+  </qresource>
+</RCC>
+

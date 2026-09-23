@@ -1,0 +1,550 @@
+{
+    "classes": [
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "auto"
+                },
+                {
+                    "name": "QML.Creatable",
+                    "value": "false"
+                },
+                {
+                    "name": "QML.UncreatableReason",
+                    "value": "AppController is created in main.cpp"
+                }
+            ],
+            "className": "AppController",
+            "lineNumber": 19,
+            "methods": [
+                {
+                    "access": "public",
+                    "index": 11,
+                    "lineNumber": 75,
+                    "name": "showWindow",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 12,
+                    "lineNumber": 76,
+                    "name": "hideWindow",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 13,
+                    "lineNumber": 77,
+                    "name": "toggleWindow",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 14,
+                    "lineNumber": 78,
+                    "name": "openSettings",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "id",
+                            "type": "qint64"
+                        },
+                        {
+                            "name": "paste",
+                            "type": "bool"
+                        }
+                    ],
+                    "index": 15,
+                    "lineNumber": 82,
+                    "name": "activate",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "id",
+                            "type": "qint64"
+                        }
+                    ],
+                    "index": 16,
+                    "lineNumber": 83,
+                    "name": "togglePin",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "id",
+                            "type": "qint64"
+                        }
+                    ],
+                    "index": 17,
+                    "lineNumber": 84,
+                    "name": "remove",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 18,
+                    "lineNumber": 85,
+                    "name": "clearHistory",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 19,
+                    "lineNumber": 86,
+                    "name": "openUrl",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 20,
+                    "isConst": true,
+                    "lineNumber": 88,
+                    "name": "targetScreenGeometry",
+                    "returnType": "QRect"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "window",
+                            "type": "QWindow*"
+                        },
+                        {
+                            "name": "card",
+                            "type": "QRectF"
+                        },
+                        {
+                            "name": "radius",
+                            "type": "int"
+                        },
+                        {
+                            "name": "dark",
+                            "type": "bool"
+                        }
+                    ],
+                    "index": 21,
+                    "lineNumber": 89,
+                    "name": "prepareWindow",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "window",
+                            "type": "QWindow*"
+                        }
+                    ],
+                    "index": 22,
+                    "lineNumber": 90,
+                    "name": "bringToFront",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 23,
+                    "lineNumber": 92,
+                    "name": "requestAccessibility",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 24,
+                    "lineNumber": 93,
+                    "name": "refreshAccessibility",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 25,
+                    "lineNumber": 94,
+                    "name": "quit",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": true,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "lineNumber": 24,
+                    "name": "model",
+                    "override": false,
+                    "read": "model",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "ClipModel*",
+                    "user": false,
+                    "virtual": false
+                },
+                {
+                    "constant": true,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "lineNumber": 25,
+                    "name": "isMac",
+                    "override": false,
+                    "read": "isMac",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "virtual": false
+                },
+                {
+                    "constant": true,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "lineNumber": 26,
+                    "name": "hotkeyOptions",
+                    "override": false,
+                    "read": "hotkeyOptions",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QStringList",
+                    "user": false,
+                    "virtual": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 3,
+                    "lineNumber": 27,
+                    "name": "windowVisible",
+                    "notify": "windowVisibleChanged",
+                    "override": false,
+                    "read": "windowVisible",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "virtual": false,
+                    "write": "setWindowVisible"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 4,
+                    "lineNumber": 28,
+                    "name": "totalCount",
+                    "notify": "totalCountChanged",
+                    "override": false,
+                    "read": "totalCount",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "virtual": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 5,
+                    "lineNumber": 29,
+                    "name": "accessibilityTrusted",
+                    "notify": "accessibilityTrustedChanged",
+                    "override": false,
+                    "read": "accessibilityTrusted",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "virtual": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 6,
+                    "lineNumber": 32,
+                    "name": "paused",
+                    "notify": "pausedChanged",
+                    "override": false,
+                    "read": "paused",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "virtual": false,
+                    "write": "setPaused"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 7,
+                    "lineNumber": 33,
+                    "name": "hotkeyPreset",
+                    "notify": "settingsChanged",
+                    "override": false,
+                    "read": "hotkeyPreset",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "virtual": false,
+                    "write": "setHotkeyPreset"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 8,
+                    "lineNumber": 34,
+                    "name": "hotkeyText",
+                    "notify": "settingsChanged",
+                    "override": false,
+                    "read": "hotkeyText",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "virtual": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 9,
+                    "lineNumber": 35,
+                    "name": "maxItems",
+                    "notify": "settingsChanged",
+                    "override": false,
+                    "read": "maxItems",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "virtual": false,
+                    "write": "setMaxItems"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 10,
+                    "lineNumber": 36,
+                    "name": "pasteOnSelect",
+                    "notify": "settingsChanged",
+                    "override": false,
+                    "read": "pasteOnSelect",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "virtual": false,
+                    "write": "setPasteOnSelect"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 11,
+                    "lineNumber": 37,
+                    "name": "themeMode",
+                    "notify": "settingsChanged",
+                    "override": false,
+                    "read": "themeMode",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "virtual": false,
+                    "write": "setThemeMode"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 12,
+                    "lineNumber": 38,
+                    "name": "ignoreConcealed",
+                    "notify": "settingsChanged",
+                    "override": false,
+                    "read": "ignoreConcealed",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "virtual": false,
+                    "write": "setIgnoreConcealed"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 13,
+                    "lineNumber": 39,
+                    "name": "vibrancy",
+                    "notify": "settingsChanged",
+                    "override": false,
+                    "read": "vibrancy",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "virtual": false,
+                    "write": "setVibrancy"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 14,
+                    "lineNumber": 40,
+                    "name": "launchAtLogin",
+                    "notify": "launchAtLoginChanged",
+                    "override": false,
+                    "read": "launchAtLogin",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "virtual": false,
+                    "write": "setLaunchAtLogin"
+                }
+            ],
+            "qualifiedClassName": "AppController",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "lineNumber": 97,
+                    "name": "showRequested",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "lineNumber": 98,
+                    "name": "hideRequested",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "lineNumber": 99,
+                    "name": "settingsRequested",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "message",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 3,
+                    "lineNumber": 100,
+                    "name": "toast",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "title",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "message",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 4,
+                    "lineNumber": 101,
+                    "name": "systemNotification",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 5,
+                    "lineNumber": 103,
+                    "name": "windowVisibleChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 6,
+                    "lineNumber": 104,
+                    "name": "totalCountChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 7,
+                    "lineNumber": 105,
+                    "name": "accessibilityTrustedChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 8,
+                    "lineNumber": 106,
+                    "name": "pausedChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 9,
+                    "lineNumber": 107,
+                    "name": "settingsChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 10,
+                    "lineNumber": 108,
+                    "name": "launchAtLoginChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "AppController.h",
+    "outputRevision": 69
+}

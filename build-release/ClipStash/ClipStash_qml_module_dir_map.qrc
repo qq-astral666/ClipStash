@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/ClipStash">/Users/admin/CLionProjects/ClipStash/build-release/ClipStash</file>
+
+  </qresource>
+</RCC>

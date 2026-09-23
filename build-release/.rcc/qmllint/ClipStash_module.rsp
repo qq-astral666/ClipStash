@@ -1,0 +1,14 @@
+-I
+/Users/admin/CLionProjects/ClipStash/build-release
+-I
+/Users/admin/CLionProjects/ClipStash/build-release/ClipStash
+-I
+/Users/admin/CLionProjects/ClipStash/build-release
+-I
+/opt/homebrew/opt/qt/share/qt/qml
+--resource
+/Users/admin/CLionProjects/ClipStash/build-release/.qt/rcc/qmake_ClipStash.qrc
+--resource
+/Users/admin/CLionProjects/ClipStash/build-release/.qt/rcc/ClipStash_raw_qml_0.qrc
+--module
+ClipStash

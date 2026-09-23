@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "TrayIcon",
+            "lineNumber": 11,
+            "object": true,
+            "qualifiedClassName": "TrayIcon",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "TrayIcon.h",
+    "outputRevision": 69
+}

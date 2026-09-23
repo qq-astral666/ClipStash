@@ -1,0 +1,4 @@
+set(__QT_DEPLOY_TARGET_clipstash_core_FILE /Users/admin/CLionProjects/ClipStash/build-release/libclipstash_core.a)
+set(__QT_DEPLOY_TARGET_clipstash_core_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_ClipStash_FILE /Users/admin/CLionProjects/ClipStash/build-release/ClipStash.app/Contents/MacOS/ClipStash)
+set(__QT_DEPLOY_TARGET_ClipStash_TYPE EXECUTABLE)
