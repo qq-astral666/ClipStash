@@ -8071,11 +8071,6 @@
 			Sr7TtdhNQlL2uykpmKVmsJohrk8qQ15oB89wR/4UxYo=
 			</data>
 		</dict>
-		<key>Resources/qml/QtQml/StateMachine/libqtqmlstatemachineplugin.dylib</key>
-		<dict>
-			<key>symlink</key>
-			<string>../../../../PlugIns/quick/libqtqmlstatemachineplugin.dylib</string>
-		</dict>
 		<key>Resources/qml/QtQml/StateMachine/plugins.qmltypes</key>
 		<dict>
 			<key>hash2</key>
@@ -19290,11 +19285,6 @@
 			yapMd7J6xM0pB8JnwECadenLEhT2tTmLdrZCEgUP7EU=
 			</data>
 		</dict>
-		<key>Resources/qml/QtQuick/Pdf/libpdfquickplugin.dylib</key>
-		<dict>
-			<key>symlink</key>
-			<string>../../../../PlugIns/quick/libpdfquickplugin.dylib</string>
-		</dict>
 		<key>Resources/qml/QtQuick/Pdf/plugins.qmltypes</key>
 		<dict>
 			<key>hash2</key>
@@ -19309,11 +19299,6 @@
 			lfSq0wzbxkJJyspHm1/nGrzUoUOnE7Kcd+MFrNyo1OI=
 			</data>
 		</dict>
-		<key>Resources/qml/QtQuick/Scene2D/libqtquickscene2dplugin.dylib</key>
-		<dict>
-			<key>symlink</key>
-			<string>../../../../PlugIns/quick/libqtquickscene2dplugin.dylib</string>
-		</dict>
 		<key>Resources/qml/QtQuick/Scene2D/plugins.qmltypes</key>
 		<dict>
 			<key>hash2</key>
@@ -19327,11 +19312,6 @@
 			<data>
 			yHzvtZVn0Fh2xMCkVgpZy+PMhKYYcrEsaXhIwz0/9xY=
 			</data>
-		</dict>
-		<key>Resources/qml/QtQuick/Scene3D/libqtquickscene3dplugin.dylib</key>
-		<dict>
-			<key>symlink</key>
-			<string>../../../../PlugIns/quick/libqtquickscene3dplugin.dylib</string>
 		</dict>
 		<key>Resources/qml/QtQuick/Scene3D/plugins.qmltypes</key>
 		<dict>
@@ -19404,11 +19384,6 @@
 			bEkB3u/kohIzhVb9f7q+/5sNO2S3sOQyRf3hGxXdMaM=
 			</data>
 		</dict>
-		<key>Resources/qml/QtQuick/Timeline/BlendTrees/libqtquicktimelineblendtreesplugin.dylib</key>
-		<dict>
-			<key>symlink</key>
-			<string>../../../../../PlugIns/quick/libqtquicktimelineblendtreesplugin.dylib</string>
-		</dict>
 		<key>Resources/qml/QtQuick/Timeline/BlendTrees/plugins.qmltypes</key>
 		<dict>
 			<key>hash2</key>
@@ -19422,11 +19397,6 @@
 			<data>
 			ka1xDQmZlZqUMriN/Rvyakhn+/xsKiZaEX7m4r7gZbk=
 			</data>
-		</dict>
-		<key>Resources/qml/QtQuick/Timeline/libqtquicktimelineplugin.dylib</key>
-		<dict>
-			<key>symlink</key>
-			<string>../../../../PlugIns/quick/libqtquicktimelineplugin.dylib</string>
 		</dict>
 		<key>Resources/qml/QtQuick/Timeline/plugins.qmltypes</key>
 		<dict>
@@ -19697,11 +19667,6 @@
 			EEbFO/u9xlv9KL2fh0vClYJj056ZQoU11uvD9byFF9U=
 			</data>
 		</dict>
-		<key>Resources/qml/QtQuick/VirtualKeyboard/Components/libqtvkbcomponentsplugin.dylib</key>
-		<dict>
-			<key>symlink</key>
-			<string>../../../../../PlugIns/quick/libqtvkbcomponentsplugin.dylib</string>
-		</dict>
 		<key>Resources/qml/QtQuick/VirtualKeyboard/Components/qmldir</key>
 		<dict>
 			<key>hash2</key>
@@ -19715,11 +19680,6 @@
 			<data>
 			qWx79YMnZ73J2R4ikKOSCuw6v78uOBS844tJSD8W+Eo=
 			</data>
-		</dict>
-		<key>Resources/qml/QtQuick/VirtualKeyboard/Core/libvirtualkeyboardplugin.dylib</key>
-		<dict>
-			<key>symlink</key>
-			<string>../../../../../PlugIns/quick/libvirtualkeyboardplugin.dylib</string>
 		</dict>
 		<key>Resources/qml/QtQuick/VirtualKeyboard/Core/plugins.qmltypes</key>
 		<dict>
@@ -19775,11 +19735,6 @@
 			qWx79YMnZ73J2R4ikKOSCuw6v78uOBS844tJSD8W+Eo=
 			</data>
 		</dict>
-		<key>Resources/qml/QtQuick/VirtualKeyboard/Plugins/Hangul/libqtvkbhangulplugin.dylib</key>
-		<dict>
-			<key>symlink</key>
-			<string>../../../../../../PlugIns/quick/libqtvkbhangulplugin.dylib</string>
-		</dict>
 		<key>Resources/qml/QtQuick/VirtualKeyboard/Plugins/Hangul/plugins.qmltypes</key>
 		<dict>
 			<key>hash2</key>
@@ -19793,11 +19748,6 @@
 			<data>
 			S3upXSdTQiwsop2o8TJndK6ATArqSH1zyTbG2hQIOy8=
 			</data>
-		</dict>
-		<key>Resources/qml/QtQuick/VirtualKeyboard/Plugins/Hunspell/libqtvkbhunspellplugin.dylib</key>
-		<dict>
-			<key>symlink</key>
-			<string>../../../../../../PlugIns/quick/libqtvkbhunspellplugin.dylib</string>
 		</dict>
 		<key>Resources/qml/QtQuick/VirtualKeyboard/Plugins/Hunspell/plugins.qmltypes</key>
 		<dict>
@@ -19813,11 +19763,6 @@
 			YbC1oxW5akqojVxcFW1vXNjf1YMIaA/fx/Z+3b3Sa9A=
 			</data>
 		</dict>
-		<key>Resources/qml/QtQuick/VirtualKeyboard/Plugins/OpenWNN/libqtvkbopenwnnplugin.dylib</key>
-		<dict>
-			<key>symlink</key>
-			<string>../../../../../../PlugIns/quick/libqtvkbopenwnnplugin.dylib</string>
-		</dict>
 		<key>Resources/qml/QtQuick/VirtualKeyboard/Plugins/OpenWNN/plugins.qmltypes</key>
 		<dict>
 			<key>hash2</key>
@@ -19831,11 +19776,6 @@
 			<data>
 			O43Ct0WGqmeK4f7nKkRhfSpCn0WGMPcsaeCHjvIYhOg=
 			</data>
-		</dict>
-		<key>Resources/qml/QtQuick/VirtualKeyboard/Plugins/Pinyin/libqtvkbpinyinplugin.dylib</key>
-		<dict>
-			<key>symlink</key>
-			<string>../../../../../../PlugIns/quick/libqtvkbpinyinplugin.dylib</string>
 		</dict>
 		<key>Resources/qml/QtQuick/VirtualKeyboard/Plugins/Pinyin/plugins.qmltypes</key>
 		<dict>
@@ -19851,11 +19791,6 @@
 			FcMwVQqSbcQOzNo1Uk7npghCwVWAHtqq15s0GHBlekI=
 			</data>
 		</dict>
-		<key>Resources/qml/QtQuick/VirtualKeyboard/Plugins/TCIme/libqtvkbtcimeplugin.dylib</key>
-		<dict>
-			<key>symlink</key>
-			<string>../../../../../../PlugIns/quick/libqtvkbtcimeplugin.dylib</string>
-		</dict>
 		<key>Resources/qml/QtQuick/VirtualKeyboard/Plugins/TCIme/plugins.qmltypes</key>
 		<dict>
 			<key>hash2</key>
@@ -19869,11 +19804,6 @@
 			<data>
 			NpED1iRIN9C6l2g9BA/9FJ0EtRBQM2dpQOWPYOd91uI=
 			</data>
-		</dict>
-		<key>Resources/qml/QtQuick/VirtualKeyboard/Plugins/Thai/libqtvkbthaiplugin.dylib</key>
-		<dict>
-			<key>symlink</key>
-			<string>../../../../../../PlugIns/quick/libqtvkbthaiplugin.dylib</string>
 		</dict>
 		<key>Resources/qml/QtQuick/VirtualKeyboard/Plugins/Thai/plugins.qmltypes</key>
 		<dict>
@@ -19907,11 +19837,6 @@
 			<data>
 			qWx79YMnZ73J2R4ikKOSCuw6v78uOBS844tJSD8W+Eo=
 			</data>
-		</dict>
-		<key>Resources/qml/QtQuick/VirtualKeyboard/Settings/libqtvkbsettingsplugin.dylib</key>
-		<dict>
-			<key>symlink</key>
-			<string>../../../../../PlugIns/quick/libqtvkbsettingsplugin.dylib</string>
 		</dict>
 		<key>Resources/qml/QtQuick/VirtualKeyboard/Settings/plugins.qmltypes</key>
 		<dict>
@@ -19995,11 +19920,6 @@
 			mpoRMQjDGJQXcDBBYGxvhSRaVGZg6NbbIkrQbk4mtLU=
 			</data>
 		</dict>
-		<key>Resources/qml/QtQuick/VirtualKeyboard/Styles/libqtvkbstylesplugin.dylib</key>
-		<dict>
-			<key>symlink</key>
-			<string>../../../../../PlugIns/quick/libqtvkbstylesplugin.dylib</string>
-		</dict>
 		<key>Resources/qml/QtQuick/VirtualKeyboard/Styles/plugins.qmltypes</key>
 		<dict>
 			<key>hash2</key>
@@ -20020,11 +19940,6 @@
 			<data>
 			qWx79YMnZ73J2R4ikKOSCuw6v78uOBS844tJSD8W+Eo=
 			</data>
-		</dict>
-		<key>Resources/qml/QtQuick/VirtualKeyboard/libqtvkbplugin.dylib</key>
-		<dict>
-			<key>symlink</key>
-			<string>../../../../PlugIns/quick/libqtvkbplugin.dylib</string>
 		</dict>
 		<key>Resources/qml/QtQuick/VirtualKeyboard/qmldir</key>
 		<dict>
