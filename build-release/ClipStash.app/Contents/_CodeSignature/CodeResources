@@ -7207,10 +7207,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			sS2X7xpl1Te1rOSszaTCAG1h1rY=
+			u6YQ7mFFJdGrKSGBaMCurN0vn38=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"b12d97ef1a65d537b5ace4accda4c2006d61d6b6"</string>
+			<string>cdhash H"bba610ee614525d1ab29218168c0aeacdd2f9f7f"</string>
 		</dict>
 		<key>Frameworks/libdouble-conversion.3.dylib</key>
 		<dict>
@@ -7333,19 +7333,19 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			NZiaDA1vWJxqRi1BffWoCLxrSsY=
+			p5864qHkHLy+3cRomeSQVoNoDtI=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"35989a0c0d6f589c6a462d417df5a808bc6b4ac6"</string>
+			<string>cdhash H"a79f3ae2a1e41cbcbeddc46899e4905683680ed2"</string>
 		</dict>
 		<key>Frameworks/libjpeg.8.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			qvgGTe5Jq/av94n7S9wkHoGIG4Q=
+			sD4VUeb2cScNd187HLl+6GP8pFQ=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"aaf8064dee49abf6aff789fb4bdc241e81881b84"</string>
+			<string>cdhash H"b03e1551e6f671270d775f3b1cb97ee863fca454"</string>
 		</dict>
 		<key>Frameworks/liblcms2.2.dylib</key>
 		<dict>
@@ -7545,15 +7545,6 @@
 			<key>requirement</key>
 			<string>cdhash H"33c84f0636f4821d6ca00bf7f98958390a308368"</string>
 		</dict>
-		<key>PlugIns/imageformats/libqpdf.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			eoBKkjTL7c+qh3shBRU6Yd4tT98=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"7a804a9234cbedcfaa877b2105153a61de2d4fdf"</string>
-		</dict>
 		<key>PlugIns/imageformats/libqsvg.dylib</key>
 		<dict>
 			<key>cdhash</key>
@@ -7626,15 +7617,6 @@
 			<key>requirement</key>
 			<string>cdhash H"977015d57d146f671ed3938f8ea17b85dd4699df"</string>
 		</dict>
-		<key>PlugIns/platforminputcontexts/libqtvirtualkeyboardplugin.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			6JvFd8e5vTkChAOR6PJk6ekKxBQ=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"e89bc577c7b9bd3902840391e8f264e9e90ac414"</string>
-		</dict>
 		<key>PlugIns/platforms/libqcocoa.dylib</key>
 		<dict>
 			<key>cdhash</key>
@@ -7670,15 +7652,6 @@
 			</data>
 			<key>requirement</key>
 			<string>cdhash H"878b1bf9bdcd98a192b1401625dc26e2a52c8132"</string>
-		</dict>
-		<key>PlugIns/quick/libpdfquickplugin.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			Maes1sKOiQw6rjL7wwwHx4Jbkos=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"31a7acd6c28e890c3aae32fbc30c07c7825b928b"</string>
 		</dict>
 		<key>PlugIns/quick/libqmllocalstorageplugin.dylib</key>
 		<dict>
@@ -7742,15 +7715,6 @@
 			</data>
 			<key>requirement</key>
 			<string>cdhash H"3e1306722a81737ccfcfaf99ba657cef12ec9ef5"</string>
-		</dict>
-		<key>PlugIns/quick/libqtqmlstatemachineplugin.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			GHAIW36tMpEE+ITcyr6EdOyZlMQ=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"1870085b7ead329104f884dccabe8474ec9994c4"</string>
 		</dict>
 		<key>PlugIns/quick/libqtquick2plugin.dylib</key>
 		<dict>
@@ -7950,24 +7914,6 @@
 			<key>requirement</key>
 			<string>cdhash H"f15070038f1fc2448c87fea000cf59e01e28b30b"</string>
 		</dict>
-		<key>PlugIns/quick/libqtquickscene2dplugin.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			Sw9Z9L8JD4u4jfGfhRlJ9HJzzC8=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"4b0f59f4bf090f8bb88df19f851949f47273cc2f"</string>
-		</dict>
-		<key>PlugIns/quick/libqtquickscene3dplugin.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			bgs0IRHbML0tH7OJgdGcqJ3AnNk=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"6e0b342111db30bd2d1fb38981d19ca89dc09cd9"</string>
-		</dict>
 		<key>PlugIns/quick/libqtquickshapesdesignhelpersplugin.dylib</key>
 		<dict>
 			<key>cdhash</key>
@@ -7986,24 +7932,6 @@
 			<key>requirement</key>
 			<string>cdhash H"e687e7379a7def0f89beb0a4b2081c3e50dd718b"</string>
 		</dict>
-		<key>PlugIns/quick/libqtquicktimelineblendtreesplugin.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			I21LxqpN67LeTh23/+rHojH9kPg=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"236d4bc6aa4debb2de4e1db7ffeac7a231fd90f8"</string>
-		</dict>
-		<key>PlugIns/quick/libqtquicktimelineplugin.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			dtBd/UnBvbhVy1lqghmiulGNv3o=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"76d05dfd49c1bdb855cb596a8219a2ba518dbf7a"</string>
-		</dict>
 		<key>PlugIns/quick/libqtvkbbuiltinstylesplugin.dylib</key>
 		<dict>
 			<key>cdhash</key>
@@ -8012,33 +7940,6 @@
 			</data>
 			<key>requirement</key>
 			<string>cdhash H"8620a5218c0b515390c5706f05062063e55995bc"</string>
-		</dict>
-		<key>PlugIns/quick/libqtvkbcomponentsplugin.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			NfnPxZu7+/WRjvjmsDKK01wQ1sY=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"35f9cfc59bbbfbf5918ef8e6b0328ad35c10d6c6"</string>
-		</dict>
-		<key>PlugIns/quick/libqtvkbhangulplugin.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			pfQkKcQWQbjYwSduERr2ZwgzAK0=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"a5f42429c41641b8d8c1276e111af667083300ad"</string>
-		</dict>
-		<key>PlugIns/quick/libqtvkbhunspellplugin.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			yANz0SNY/pg4zKVqHpE4ygTiqfI=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"c80373d12358fe9838cca56a1e9138ca04e2a9f2"</string>
 		</dict>
 		<key>PlugIns/quick/libqtvkblayoutsplugin.dylib</key>
 		<dict>
@@ -8049,33 +7950,6 @@
 			<key>requirement</key>
 			<string>cdhash H"eca3e4de7ca84aad15fe301bca0cbbaf5a95c17a"</string>
 		</dict>
-		<key>PlugIns/quick/libqtvkbopenwnnplugin.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			3JPY4WNHXruV0hPBEmwPsMvVv6E=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"dc93d8e163475ebb95d213c1126c0fb0cbd5bfa1"</string>
-		</dict>
-		<key>PlugIns/quick/libqtvkbpinyinplugin.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			DsTLz2bdvExmv9vDyq+mvJvDBSc=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"0ec4cbcf66ddbc4c66bfdbc3caafa6bc9bc30527"</string>
-		</dict>
-		<key>PlugIns/quick/libqtvkbplugin.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			FB/suMmgVSDJ2IvGUw6rSf/296M=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"141fecb8c9a05520c9d88bc6530eab49fff6f7a3"</string>
-		</dict>
 		<key>PlugIns/quick/libqtvkbpluginsplugin.dylib</key>
 		<dict>
 			<key>cdhash</key>
@@ -8084,42 +7958,6 @@
 			</data>
 			<key>requirement</key>
 			<string>cdhash H"d4aadbf9deea9c4ecc5499e4ec81972db2b37bc6"</string>
-		</dict>
-		<key>PlugIns/quick/libqtvkbsettingsplugin.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			788hyvnPj/3Aj60g9lah5qqNhAA=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"efcf21caf9cf8ffdc08fad20f656a1e6aa8d8400"</string>
-		</dict>
-		<key>PlugIns/quick/libqtvkbstylesplugin.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			DquDUkP+bcnEJjxSCxOAErqnLbY=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"0eab835243fe6dc9c4263c520b138012baa72db6"</string>
-		</dict>
-		<key>PlugIns/quick/libqtvkbtcimeplugin.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			myMPQzuU/okYyNqFKto8LmaFIAA=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"9b230f433b94fe8918c8da852ada3c2e66852000"</string>
-		</dict>
-		<key>PlugIns/quick/libqtvkbthaiplugin.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			6saeioCO2ZIZAfhSO5pRe0WrDJQ=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"eac69e8a808ed9921901f8523b9a517b45ab0c94"</string>
 		</dict>
 		<key>PlugIns/quick/libquicktoolingplugin.dylib</key>
 		<dict>
@@ -8138,15 +7976,6 @@
 			</data>
 			<key>requirement</key>
 			<string>cdhash H"ed3f840a5a97ffa5e9143727dac336b61c368505"</string>
-		</dict>
-		<key>PlugIns/quick/libvirtualkeyboardplugin.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			QKAGFTRnjsFwBlrSFdsoeuGi/HE=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"40a0061534678ec170065ad215db287ae1a2fc71"</string>
 		</dict>
 		<key>PlugIns/quick/libworkerscriptplugin.dylib</key>
 		<dict>
